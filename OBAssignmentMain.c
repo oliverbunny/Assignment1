@@ -10,7 +10,7 @@
 //#define FILENAME_4 "input.txt"
 
 int key = 7;  
-char str[] = "HAAHJR!!";
+char str[] = "Message to be ciphered!!";
 char key2[] = "QWERTYUIOPASDFGHJKLZXCVBNM";
 char rotEncrypt();
 char rotDecrypt();
