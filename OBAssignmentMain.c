@@ -1,5 +1,5 @@
-//I cant commit to github because of authentication problems
-//Created remote repo with SSH as shown in the lecture
+//I cant commit to github because of authentication problems.
+//Created remote repo with SSH as shown in the lecture.
 
 #include <stdio.h>
 #include "task_select.h"
